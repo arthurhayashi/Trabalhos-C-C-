@@ -1,0 +1,73 @@
+14:41:32:600 (28996) > --- NIXXES log start ---
+14:41:32:825 (28996) > 
+14:41:32:936 (28996) > Memory statistics:
+14:41:33:030 (28996) >   Total RAM = 7.9 GB (8090 MB)
+14:41:33:080 (28996) >   Avail RAM = 3.0 GB (3084 MB)
+14:41:33:129 (28996) >   Total virtual memory = 4.0 GB (4095 MB)
+14:41:33:179 (28996) >   Avail virtual memory = 3.3 GB (3425 MB)
+14:41:33:227 (28996) > OS = Windows 8 (build 9200)
+14:41:33:276 (28996) > Starting Tomb Raider v1.01.748.0
+14:41:38:121 (28996) > [Main] Current directory: C:\Program Files (x86)\Steam\steamapps\common\Tomb Raider
+14:41:38:209 (28996) > Mounted TITLE.000
+14:41:38:264 (28996) > Mounted PATCH.000
+14:41:38:324 (28996) > Mounted PATCH2.000
+14:41:39:893 (28996) > [Render] PCDeviceManager constructor start
+14:41:40:632 (28996) > [Render] PCDeviceManager constructor end
+14:41:41:548 (28996) > [Render] PCDX11DeviceManager constructor start
+14:41:41:624 (28996) > D3D Adapter Information:
+14:41:41:657 (28996) > Adapter Description: NVIDIA GeForce 940MX
+14:41:41:681 (28996) > VendorID: 10de
+14:41:41:706 (28996) > DeviceID: 134d
+14:41:41:730 (28996) > Revision: a2
+14:41:41:755 (28996) > NVidia hardware detected. Attemping to load NVAPI...
+14:41:41:779 (28996) > NVAPI loaded succesfully.
+14:41:41:852 (28996) > NvAPI_Stereo_IsEnabled() returned an error: -140
+14:41:41:967 (28996) > Reducing mouse lag by setting frame latency to 1...
+14:41:41:997 (28996) > D3D reports feature level 11 is supported.
+14:41:42:025 (28996) > NVAPI Depth Bounds Test supported.
+14:41:42:248 (28996) > D3D Adapter Information:
+14:41:42:285 (28996) > Adapter Description: Intel(R) HD Graphics 620
+14:41:42:343 (28996) > VendorID: 8086
+14:41:42:400 (28996) > DeviceID: 5916
+14:41:42:447 (28996) > Revision: 2
+14:41:42:578 (28996) > Reducing mouse lag by setting frame latency to 1...
+14:41:42:608 (28996) > D3D reports feature level 11 is supported.
+14:41:42:666 (28996) > D3D reports no hardware multiple command list support.
+14:41:42:927 (28996) > [Render] Adapter I has no outputs!
+14:41:43:126 (28996) > D3D Adapter Information:
+14:41:43:173 (28996) > Adapter Description: Microsoft Basic Render Driver
+14:41:43:197 (28996) > VendorID: 1414
+14:41:43:222 (28996) > DeviceID: 8c
+14:41:43:247 (28996) > Revision: 0
+14:41:43:441 (28996) > Reducing mouse lag by setting frame latency to 1...
+14:41:43:474 (28996) > D3D reports feature level 11 is supported.
+14:41:43:499 (28996) > D3D reports no hardware multiple command list support.
+14:41:43:525 (28996) > [Render] Adapter M has no outputs!
+14:41:43:548 (28996) > [Render] PCDX11DeviceManager constructor end
+14:41:52:053 (28996) > CPU count: logical = 4, cores = 2, physical = 1
+14:41:52:218 (28996) > D3D Adapter Information:
+14:41:52:293 (28996) > Adapter Description: NVIDIA GeForce 940MX
+14:41:52:424 (28996) > VendorID: 10de
+14:41:52:616 (28996) > DeviceID: 134d
+14:41:52:751 (28996) > Revision: a2
+14:41:52:826 (28996) > NVidia hardware detected. Attemping to load NVAPI...
+14:41:52:976 (28996) > NVAPI loaded succesfully.
+14:41:53:201 (28996) > NvAPI_Stereo_IsEnabled() returned an error: -140
+14:41:53:733 (28996) > Reducing mouse lag by setting frame latency to 1...
+14:41:53:968 (28996) > D3D reports feature level 11 is supported.
+14:41:54:149 (28996) > NVAPI Depth Bounds Test supported.
+14:41:54:384 (11684) > CreateSwapChain() = 0
+14:41:54:542 (11684) > MakeWindowAssociation() = 0
+14:41:58:123 (11684) > SetFullscreenState() = 0
+14:41:58:999 (28996) > [Render] Using DirectX 11
+14:41:59:659 (28996) > Initalizing audio...
+14:42:08:546 (28996) > Audio device found. FMOD reports 1 driver(s).
+14:42:08:585 (28996) > Audio Driver Name: Fones de ouvido / Alto falantes (Realtek Audio)
+14:42:08:609 (28996) > Speaker Mode: 2
+14:42:16:751 (28996) > OLWebServiceClient [Status:200] [DownloadEvent:Finished] [HttpError:OK] [ServerError:OK]
+14:42:45:911 (28996) > Request (SEM_ResendConfirmationMail) [Id:1] failed ! [Status:500] [DownloadEvent:Finished] [HttpError:Undefined] [ServerError:OK]
+14:43:31:422 (28996) > DX11RenderContext:---OnSettingsChanged ---
+14:43:31:581 (28996) > PCDX11RenderContext::Resize(1920, 1080, True)
+14:43:31:616 (11684) > ResizeSwapChain(1920,1080) == 0
+14:43:49:008 (28996) > Request (GetPlayerProfileFrom) [Id:6] failed ! [Status:404] [DownloadEvent:Resource Error] [HttpError:Response Status Code] [ServerError:OK]
+14:43:54:240 (28996) > Exiting the game.

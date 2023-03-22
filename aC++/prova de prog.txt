@@ -1,0 +1,89 @@
+questão 2
+a)
+I1, I2, I5, I8;
+
+B)
+I1, I3, I4, I8;
+
+C)
+B=V E C=TANTO FAZ
+
+D)
+A = V B=3 C=4 X=V Y=F;
+
+E)
+L7, L9, L11, L13, L15;
+
+F)
+A=V, B=V, C=F, X=QUALQUER NÚMERO MENOR Q Y
+I1, I2, I5, I8;
+
+G)
+I1, I2, I5, I8;
+
+H)
+SIM
+
+QUESTÃO 3
+
+VAR
+	A, B, C, D : INTEIRO
+
+INICIO
+	se ((A > B) && (B > C) && (C > D)) então
+		escreva "decrescente"
+
+	senão
+		se ((A < B) && (B < C) && (C < D)) então
+			escreva "crescente"
+	fimse
+
+fimAlgoritmo
+
+QUESTÃO 4
+
+C)
+o código pega 2 valores compara e depois escolhe o maior valor, repete o preceso com outros 2 valorese depois ele faz a média ente as duas notas depois repete o processo com os outros valores de médias da nota final e da nota de repossição e executa uma média ente as duas e escreve o resultado da média;
+
+D)
+
+VAR 
+	a, b, ,c, d, f, m1, m2, m3:INTEIRO
+INICIO
+	leia (a, b, c, ,d)
+
+	se (a > b) entao
+		m1 <- a
+
+	senao
+		m1 <-b
+	fimse
+	
+	se (c>d) entao
+		m2 <- c
+
+	senao
+		m2 <-d
+	fimse
+
+	m3 <- ((m1+m2)/2)
+
+escreva (m3)
+
+	se (m3<7) entao
+		leia f
+		
+		se(f>m1)entao
+		m1 <- f
+
+		senao
+			se (f > m2) entao
+			m2 <- f
+			fimse
+		fimse
+		
+		m3 <- (m1+m2)/2
+
+		escreva (m3)
+	fimse
+fimAgoritmo
